@@ -1,0 +1,11 @@
+# Environment variables
+.env
+.env.*
+
+
+.DS_Store
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
